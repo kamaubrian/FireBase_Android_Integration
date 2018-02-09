@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "930420104835",
+    "firebase_url": "https://janice-mtoto.firebaseio.com",
+    "project_id": "janice-mtoto",
+    "storage_bucket": "janice-mtoto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930420104835:android:f7241320f5a9f2f8",
+        "android_client_info": {
+          "package_name": "janice.brian.com.firebaseintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930420104835-18a9ghn6tt1k6d53q2m76hmsoccc76u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRrl_pui0w2O9Ad1RDgdSHBk9rY9R7y0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
